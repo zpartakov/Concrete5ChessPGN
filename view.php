@@ -2,8 +2,8 @@
 <script src="view.js" type="text/javascript"></script>
 <script type="text/javascript">
    "use strict";
-   SetImagePath ("blocks/chesspgn/images/alpha/24");
-   SetImageType("png");
+   SetImagePath ('<?php echo DIR_REL."/blocks/chesspgn/images/alpha/24"?>');
+      SetImageType("png");
    SetGameSelectorOptions("Select a KK game...", false, 0, 8, 0, 0, 0, 0, 10); // (head, num, chEvent, chSite, chRound, chWhite, chBlack, chResult, chDate);
    SetCommentsOnSeparateLines(true);
    SetAutoplayDelay(2500); // milliseconds

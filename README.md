@@ -1,6 +1,8 @@
 Chesspgn, a block for Concrete5
 ===================================================================
 
+![Chesspgn snapshot](/images/chesspng2441.jpg?raw=true "Chesspgn")
+
 French:
 
 Concrete5Chesspgn, un block concrete5 pour afficher des échiquiers dynamiques
